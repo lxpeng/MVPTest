@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+    <string name="NewsListActivity">新闻列表</string>
+</resources>
